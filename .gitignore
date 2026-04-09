@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Faust state
+iot-app-data/
+
+# Logs
+*.log
+
+# Docker volumes / temp
+data/
+tmp/

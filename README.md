@@ -114,7 +114,7 @@ This will start:
 
 ### 4. Install Python dependencies
 
-👉 Open a **new terminal** and return to the root directory:
+ Open a **new terminal** and return to the root directory:
 
 ```bash
 cd ..
@@ -244,15 +244,10 @@ docker-compose down
 * Deploy to cloud environment
 * Add alerting mechanisms
 
----
-
-
----
 
 ##  License
 
 This project is licensed under the MIT License.
 
-````
 
 
